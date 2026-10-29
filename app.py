@@ -11,7 +11,7 @@ BOT_ID = os.environ.get("GROUPME_BOT_ID", "")
 JOKES = [
     "Why did the pizza maker get promoted? He really brought a lot to the table.",
     "I tried to tell a pizza joke, but it was too cheesy.",
-    "My work ethic is like delivery pizza: always on the way.",
+    "Blaines load time.",
 ]
 
 CHALLENGES = [
